@@ -2,7 +2,7 @@
 <body>
 <h2>welocme to login page</h2>
  
-<inputtype = "text"> 
+<input type = "text"> 
 
 </body>
 </html>
